@@ -140,7 +140,21 @@ Based on the analysis, businesses can:
 - Follow up on unpaid or mismatched orders
 - Optimize supplier and store performance
 
-## 8. Project Structure
+## 8. Skills Demonstrated
+
+- SQL Data Analysis
+- PostgreSQL
+- Data Profiling & Data Quality Analysis
+- Complex JOINs
+- CTEs & Subqueries
+- Window Functions
+- Customer Segmentation
+- Revenue & Sales Analysis
+- Payment Reconciliation
+- Business KPI Analysis
+- Business Insights & Recommendations
+
+## 9. Project Structure
 
 Case_Study_Retail_Final/
 │
