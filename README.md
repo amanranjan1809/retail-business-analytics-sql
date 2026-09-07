@@ -143,20 +143,24 @@ Based on the analysis, businesses can:
 ## 8. Project Structure
 
 Case_Study_Retail_Final/
- 01_Business_Case/
-
- 02_SQL/
-   -->01_data_profiling.sql
-   --> 02_data_quality.sql
-   --> 03_executive_kpis.sql
-   --> 04_sales_analysis.sql
-   --> 05_customer_analysis.sql
-   --> 06_product_category_analysis.sql
-   --> 07_store_employee_supplier_analysis.sql
-   --> 08_payment_analysis.sql
-   --> 09_advanced_sql_case_studies.sql
-   --> 10_final_executive_queries.sql
-03_Documentation/
-04_Results/
-.gitignore
- README.md
+│
+├── 01_Business_Case/
+│
+├── 02_SQL/
+│   ├── 01_data_profiling.sql
+│   ├── 02_data_quality.sql
+│   ├── 03_executive_kpis.sql
+│   ├── 04_sales_analysis.sql
+│   ├── 05_customer_analysis.sql
+│   ├── 06_product_category_analysis.sql
+│   ├── 07_store_employee_supplier_analysis.sql
+│   ├── 08_payment_analysis.sql
+│   ├── 09_advanced_sql_case_studies.sql
+│   └── 10_final_executive_queries.sql
+│
+├── 03_Documentation/
+│
+├── 04_Results/
+│
+├── .gitignore
+└── README.md
